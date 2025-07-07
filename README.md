@@ -80,9 +80,8 @@ src/
 ---
 
 ## 👨‍💻 Developed by
-- Aryaman Sharma
-- 📧 aryaman.s.work@gmail.com
-
+-srinath reddy
+-mail:srinathreddy684@gmail.com
 ----
 
 
